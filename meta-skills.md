@@ -21,7 +21,7 @@ Market: SF
   - Look for three main kinds of solutions:
 
     1. Documentation
-    2. Stack Overflow and other crowd source answers
+    2. Stack Overflow and other crowd sourced answers
     3. Blogs
 
 ## How to read a book on programming:
