@@ -24,3 +24,8 @@
 ####[Ira Glass: On Being Creative](https://www.youtube.com/watch?v=3ResTHKVxf4)
 
 * This American Life host gives an inspiring talk on creative work, and why it can be difficult to get started. 
+
+
+####[Eduardo Briceño Ted Talk: Growth Mindset](https://www.youtube.com/watch?v=pN34FNbOKXc)
+
+* The way we unerstand our intelligence deeply impacts our success. Shown in class on Week 01, Day 03
