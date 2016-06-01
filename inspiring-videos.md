@@ -29,3 +29,7 @@
 ####[Eduardo Briceño Ted Talk: Growth Mindset](https://www.youtube.com/watch?v=pN34FNbOKXc)
 
 * The way we unerstand our intelligence deeply impacts our success. Shown in class on Week 01, Day 03
+
+####[Secret World of Modern Living: Algorithms](https://www.youtube.com/watch?v=wPMZr9RDmVk)
+
+* Algorithms are everywhere, but what exactly are they?
