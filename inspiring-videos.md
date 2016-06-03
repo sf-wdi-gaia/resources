@@ -36,4 +36,4 @@
 
 ####[Vinay Gupta - London Real Interview](https://www.youtube.com/watch?v=9rys_saLiDA)
 
-* Gupta is an inventer, programmer, resiliene guru and all around brilliant guy. 
+* Gupta is an inventer, programmer, resilience guru and all around brilliant guy. 
