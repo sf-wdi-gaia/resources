@@ -33,3 +33,7 @@
 ####[Secret World of Modern Living: Algorithms](https://www.youtube.com/watch?v=wPMZr9RDmVk)
 
 * Algorithms are everywhere, but what exactly are they?
+
+####[Vinay Gupta - London Real Interview](https://www.youtube.com/watch?v=9rys_saLiDA)
+
+* Gupta is an inventer, programmer, resiliene guru and all around brilliant guy. 
