@@ -7,7 +7,7 @@ Market: SF
 
 # Meta Skills
 
-## How to Google:
+## How to Google like a programmer:
 
   - Include the language or library you are using
   - Check out the search tools 'past year'
@@ -24,7 +24,7 @@ Market: SF
     2. Stack Overflow and other crowd sourced answers
     3. Blogs
 
-## How to read a book on programming:
+## How to read a book on programming like a boss:
 
   1. Read / skim about the author. Who is this and why do I care?
   2. Skim the table of contents getting an overview of what its talking about.
@@ -37,8 +37,6 @@ Market: SF
   1. Believe in yourself, and believe in GA.
   2. Expose your ignorance.
   3. Work with other people as much as you can
-  4. Be social
-  5. Reach out if you are struggling!
-  6. Reach out if you are bored!
-  7. Work really hard.
-  8. Take care of your body and mind.
+  4. Reach out if you need anything! (You are struggling, bored, are looking for more good resources, having problems at home, anything.)
+  6. Work really hard.
+  7. Take care of your body and mind - more than usual. 
