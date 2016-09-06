@@ -26,7 +26,7 @@ Market: SF
 
 ## How to read a book on programming:
 
-  1. Read / skim about the author. Who is dis and why do I care?
+  1. Read / skim about the author. Who is this and why do I care?
   2. Skim the table of contents getting an overview of what its talking about.
   3. Read the table of contents more in depth, think about what you want to get out of it.
   4. Find a chapter that grabs your interest, skim that.
