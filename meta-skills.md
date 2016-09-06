@@ -40,3 +40,10 @@ Market: SF
   4. Reach out if you need anything! (You are struggling, bored, are looking for more good resources, having problems at home, anything.)
   6. Work really hard.
   7. Take care of your body and mind - more than usual. 
+
+## Some guiding principles:
+
+  1. Comprehension over memorization (you will always have Google). 
+  2. First understand the why: Why did someone build this tool? What problem does it solve? This will help you understand the scope of what you are learning. 
+  3. After that ask "How do I implement this? How do I use this tool to solve my problem?
+  4. Once you know the answers to the questions, not before, you can allow yourself to ask things like "How can I customize this tool to do something else?" or "How was this tool built?"
