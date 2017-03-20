@@ -37,3 +37,10 @@
 ####[Vinay Gupta - London Real Interview](https://www.youtube.com/watch?v=9rys_saLiDA)
 
 * Gupta is an inventer, programmer, resilience guru and all around brilliant guy. 
+
+####[Tristan Harris: Let's make technology that helps us spend our time well](https://www.youtube.com/watch?v=jT5rRh9AZf4&feature=youtu.be)
+
+* What if technology were designed to support high-quality human interactions?  Instead of carrying around attention-splitting "slot machines" in our pockets, what if your tech were measured in how much time it allowed people to satify their deepest needs for contribution and connection?  More at [TimeWellSpent.io](http://timewellspent.io)
+
+####[Destin from SmarterEveryDay: The Backwards Brain Bicycle](https://youtu.be/MFzDaBzBlL0)
+* Learning something new can sometimes be like breaking a deeply ingrained habit.  Watch what happens when Destin tries to ride a bike designed to turn in the opposite direction from the way the wheel is turned.  Brain reprogramming!
